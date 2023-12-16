@@ -3,7 +3,7 @@
   "help": "https://dev.azure.com/businesscentralapps/HelloWorld.AppSource",
   "contextSensitiveHelpUrl": "https://dev.azure.com/businesscentralapps/HelloWorld.AppSource",
   "name": "My App",
-  "version": "1.0.0.0",
+  "version": "2.0.0.0",
   "resourceExposurePolicy": {
     "allowDownloadingSource": false,
     "includeSourceInSymbolFile": false,
