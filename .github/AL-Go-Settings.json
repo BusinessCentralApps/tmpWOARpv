@@ -5,5 +5,6 @@
   "shell": "pwsh",
   "type": "AppSource App",
   "runs-on": "ubuntu-latest",
-  "MicrosoftTelemetryConnectionString": ""
+  "MicrosoftTelemetryConnectionString": "",
+  "templateSha": "e85bf9ec46d5cecfd51c960be196ad3af3ff719a"
 }
